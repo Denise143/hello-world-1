@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Denise Mbugua](https://github.com/Denise143)
 
 ## Project setup instructions
 To start using this project use the following commands:
